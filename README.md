@@ -286,3 +286,17 @@ verification then flagged as a double-count risk (the WEG → "always managed" m
 
 Net: two independent methods agree on the ~11M floor and a mid-teens central. They differ only on
 how much adjacent condo-administration to fold in, which this file excludes on purpose.
+
+---
+
+## License and attribution
+
+This work is licensed **CC BY 4.0** (see `LICENSE`). Share it, adapt it, use it commercially, just
+give credit. `CITATION.cff` has a machine-readable citation, or use:
+
+> Dolmetsch, R. (2026). *Professionally-managed dwellings in DACH: a sourced bottom-up estimate.*
+> https://github.com/richdolm/dach-managed-units
+
+The underlying statistics belong to their respective publishers: Statistisches Bundesamt, GdW/vdw,
+Haus & Grund, IW Köln, Statistik Austria, GBV, Bundesamt für Statistik, BWO and SVIT. What is
+licensed here is the compilation, the derivation and the commentary, not the source data.

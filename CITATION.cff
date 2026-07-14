@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Professionally-managed dwellings in DACH: a sourced bottom-up estimate"
+abstract: >-
+  A bottom-up, fully-sourced estimate of professionally-managed
+  (third-party-administered) dwellings in Germany, Austria and Switzerland:
+  ~15 million residential dwellings (central case), range ~11-19M, on a hard
+  ~11.4M floor. Plus a separate, lower-confidence modeled commercial layer
+  (~1.5M). Built from Zensus 2022 / Destatis, GdW/vdw, Statistik Austria and
+  the GBV Verbandsstatistik, and the Swiss BFS. Every figure carries its
+  source; every assumption is labelled as an assumption.
+type: dataset
+authors:
+  - family-names: Dolmetsch
+    given-names: Richard
+date-released: "2026-07-11"
+version: "1.0.0"
+license: CC-BY-4.0
+url: "https://github.com/richdolm/dach-managed-units"
+repository-code: "https://github.com/richdolm/dach-managed-units"
+keywords:
+  - property management
+  - real estate
+  - DACH
+  - Germany
+  - Austria
+  - Switzerland
+  - housing statistics
+  - market sizing
